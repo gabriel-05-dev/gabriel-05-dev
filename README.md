@@ -1,4 +1,4 @@
 -  Hi, I’m @gabriel-05-dev
 -  I’m interested in ... Webdev/Fullstack
 -  I’m currently learning ... -> HTML/CSS/JS + Python
--  How to reach me ... -> Email g.luchita@protonmail.com
+-  How to reach me ... -> Email lack-01.courtly@icloud.com
