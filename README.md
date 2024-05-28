@@ -1,4 +1,4 @@
 -  Hi, I’m @gabriel-05-dev
--  I’m interested in  Quant/HFT Programming and some web development -> Im also interested in FIX programming and programming network cards using C++ for low latency trading ( though we havent got there yet )!
--  I’m currently learning  -> C++ and some HTML/CSS/JS on the side using the curriculum from the ODIN project with hopes to land a junior position.
+-  I’m interested in Quant/HFT Programming and  web development.
+-  I’m currently learning  -> C++ and HTML/CSS/JS using the curriculum from the ODIN project with hopes to land a junior position.
 -  How to reach me  -> Email lack-01.courtly@icloud.com
