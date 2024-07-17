@@ -1,4 +1,6 @@
--  Hi, I’m @gabriel-05-dev
--  I’m interested in C++
--  I’m currently learning --> C++
--  How to reach me  --> Email lack-01.courtly@icloud.com
+contact :
+
+- lack-01.courtly@icloud.com
+- g.luchita@protonmail.com
+
+  
